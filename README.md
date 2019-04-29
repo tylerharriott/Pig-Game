@@ -7,3 +7,11 @@
 
 * Play passes from player to player until a winner is determined.
 
+---
+
+### Game Play
+         
+         
+                                                     
+![Game](img/Javascript-game.png)
+
